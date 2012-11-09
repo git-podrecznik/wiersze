@@ -24,3 +24,12 @@ Wymagania
    data urodzin, data śmierci. Informacje o poetach zapisujemy 
    w pliku poeci.txt.
 
+5. Format pliku z treścią wiersza:
+
+
+Imię i nazwisko
+Tytuł
+
+tekst...
+tekst...
+tekst...
