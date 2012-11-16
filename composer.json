@@ -1,0 +1,13 @@
+{
+    "name": "git-podrecznik / wiersze",
+    "type": "library",
+    "description": "Lorem...",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Włodzimierz Gajda",
+            "email": "gajdaw@gajdaw.pl"
+        }
+    ]
+}
