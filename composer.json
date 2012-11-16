@@ -9,5 +9,12 @@
             "name": "Włodzimierz Gajda",
             "email": "gajdaw@gajdaw.pl"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "Gajdaw\\PhpExample\\Calc": "" }
+    },
+    "target-dir": "Gajdaw/PhpExample/Calc"
 }
