@@ -1,4 +1,4 @@
-Bogusław Adamowicz(ur. 13.01.1870, zag. 1944)
+﻿Bogusław Adamowicz(ur. 13.01.1870, zag. 1944)
 
 Adam Asnyk (ur. 11.09.1838, zm. 2.08.1897)
 
@@ -49,3 +49,5 @@ Jan Andrzej Morsztyn (ur. 24 czerwca 1621, zm. 8 stycznia 1693)
 Franciszka Arnsztajnowa (ur. 1865, zm. 1942) 
 
 Mikołaj Sęp Szarzyński(ur. około 1550, zm. około 1581)
+
+Maria Stanisława Konopnicka(ur. 23 maja 1842, zm. 8 października 1910)
