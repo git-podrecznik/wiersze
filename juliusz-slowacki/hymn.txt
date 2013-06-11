@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HYMN
+=======
+ Hymn
+>>>>>>> master
 Juliusz S³owacki 
 
 Smutno mi, Bo¿e! - Dla mnie na zachodzie
@@ -31,11 +35,11 @@ Smutno mi, Bo¿e!
 
 Jako na matki odejœcie siê ¿ali
 
-Ma³a dziecina, tak ja p³aczu bliski,
+Ma³a dziecina, tak ja p³aczu bliski, 
 
 Patrz¹c na s³oñce, co mi rzuca z fali
 
-Ostatnie b³yski...
+Ostatnie b³yski... 
 
 Choæ wiem, ¿e jutro b³yœnie nowe zorze,
 
