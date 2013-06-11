@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 HYMN
+=======
+  Hymn
+>>>>>>> 1
 Juliusz S³owacki 
 
 Smutno mi, Bo¿e! - Dla mnie na zachodzie
 
-Rozla³eœ têczê blasków promienist¹;
+Rozla³eœ têczê blasków promienist¹; 
 
 Przede mn¹ gasisz w lazurowéj wodzie
 
