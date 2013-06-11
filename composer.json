@@ -1,0 +1,13 @@
+{
+    "name": "git-podrecznik/wiersze",
+    "type": "library",
+    "description": "Dane: wiersze polskich poetów",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Włodzimierz Gajda",
+            "email": "gajdaw@gajdaw.pl"
+        }
+    ]
+}
