@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HYMN
 =======
   Hymn
 >>>>>>> 1
+=======
+  Hymn
+>>>>>>> master
 Juliusz S³owacki 
 
 Smutno mi, Bo¿e! - Dla mnie na zachodzie
