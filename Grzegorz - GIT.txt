@@ -1,0 +1,24 @@
+W repo siedzi sobie GIT,
+co wersjami lubi żyć.
+Każdy commit — mały skarb,
+co historii strzeże wart.
+
+Gdy programista coś namiesza,
+GIT nie krzyczy, nie pociesza —
+mówi tylko: „Spokojnie, brat,
+zrobimy checkout, wrócisz w świat!”
+
+Branchy w nim jak drzew gałęzie,
+każdy rośnie, gdzie zapragnie.
+A gdy trzeba je połączyć,
+merge potrafi cuda stworzyć.
+
+Push do chmury, pull na dół,
+GIT pomaga, jakby król.
+Choć czasem konflikt wpadnie w kod,
+to nie powód, by iść w płacz w przód.
+
+Bo kto GIT‑a dobrze zna,
+ten się błędów nie obawia.
+Z nim projektów płynie rytm —
+niech nam żyje, niech nam GIT!
